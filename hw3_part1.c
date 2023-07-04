@@ -21,7 +21,7 @@
 //#define	ET_DYN	3	//Shared object file
 //#define	ET_CORE	4	//Core file
 //
-//#define SHT_SYMTAB 2
+//#define SHT_SYMTAB 3
 //#define STB_GLOBAL 1
 //
 //
